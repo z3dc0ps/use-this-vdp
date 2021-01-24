@@ -71,6 +71,12 @@ Here some of the websites which are tested and verified by bug hunters for Bug H
 
 </tr>
 <tr align="left">
+		<th>touchpromotions.nl</th>
+		<th>Bounty</th>
+		<th>25$</th>
+		<th>https://touchpromotions.nl/responsible-disclosure/</th>
+	</tr>
+<tr align="left">
 		<th>pratilipi</th>
 		<th>Bounty,HOF</th>
 		<th>25$</th>
