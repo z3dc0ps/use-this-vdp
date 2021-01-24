@@ -62,13 +62,20 @@ Here some of the websites which are tested and verified by bug hunters for Bug H
 # VDP
 
 <table border="1" style="border-collapse: collapse;" >
-	<tr align="left">
+
+<tr align="left">
 		<th>VDP Name</th>
 		<th>Bounty | HOF | SWAG</th>
 		<th>Minimum Bounty</th>
 		<th>VDP Page</th>
 
 </tr>
+<tr align="left">
+		<th>pratilipi</th>
+		<th>Bounty,HOF</th>
+		<th>25$</th>
+		<th>https://english.pratilipi.com/vulnerability-disclosure-policy</th>
+	</tr>
 <tr align="left">
 		<th>eero</th>
 		<th>swag</th>
