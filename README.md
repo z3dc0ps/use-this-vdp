@@ -79,7 +79,7 @@ Here some of the websites which are tested and verified by bug hunters for Bug H
 	</tr>
 	<tr align="left">
 		<th>clicktime.com</th>
-		<th>Bountyh>
+		<th>Bounty</th>
 		<th>25$</th>
 		<th>https://www.clicktime.com/policy/security-reward-program</th>
 	</tr>
