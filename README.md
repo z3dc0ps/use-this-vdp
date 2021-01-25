@@ -72,6 +72,12 @@ Here some of the websites which are tested and verified by bug hunters for Bug H
 </tr>
 
 <tr align="left">
+		<th>sidefx.com</th>
+		<th>Bounty,HOF</th>
+		<th>0$</th>
+		<th>https://www.sidefx.com/responsible-disclosure-program/</th>
+	</tr>
+<tr align="left">
 		<th>taxi2airport.com</th>
 		<th>Bounty</th>
 		<th>0$</th>
