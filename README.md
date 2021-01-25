@@ -61,7 +61,7 @@ Here some of the websites which are tested and verified by bug hunters for Bug H
 
 # VDP
 
-<table border="1" style="border-collapse: collapse;" >
+<table border="0" style="border-collapse: collapse;" >
 
 <tr align="left">
 		<th>VDP Name</th>
@@ -70,6 +70,67 @@ Here some of the websites which are tested and verified by bug hunters for Bug H
 		<th>VDP Page</th>
 
 </tr>
+
+<tr align="left">
+		<th>achmeabank.com</th>
+		<th>swag</th>
+		<th>-</th>
+		<th>https://www.achmeabank.com/security</th>
+	</tr>
+	<tr align="left">
+		<th>clicktime.com</th>
+		<th>Bountyh>
+		<th>25$</th>
+		<th>https://www.clicktime.com/policy/security-reward-program</th>
+	</tr>
+	<tr align="left">
+		<th>clickup.com</th>
+		<th>Bounty</th>
+		<th>0$</th>
+		<th>https://clickup.com/bug-bounty</th>
+	</tr>
+	<tr align="left">
+		<th>geizhals.at</th>
+		<th>Bounty</th>
+		<th>0$</th>
+		<th>https://unternehmen.geizhals.at/bugbounty-program/</th>
+	</tr>
+	<tr align="left">
+		<th>vicompany.nl</th>
+		<th>Bounty</th>
+		<th>75€</th>
+		<th>https://www.vicompany.nl/legal/responsible-disclosure</th>
+	</tr>
+	<tr align="left">
+		<th>amon.tech</th>
+		<th>Bounty</th>
+		<th>50$</th>
+		<th>https://amon.tech/bug-bounty-program</th>
+	</tr>
+	<tr align="left">
+		<th>btcdirect.eu</th>
+		<th>Bounty</th>
+		<th>0$</th>
+		<th>https://btcdirect.eu/nl-nl/responsible-disclosure</th>
+	</tr>
+	<tr align="left">
+		<th>fdmg.nl</th>
+		<th>Bounty</th>
+		<th>50€</th>
+		<th>https://fdmg.nl/wp-content/uploads/Responsible_Disclosure_EN.pdf</th>
+	</tr>
+	<tr align="left">
+		<th>secura.com</th>
+		<th>Bounty</th>
+		<th>0$</th>
+		<th>https://www.secura.com/responsible-disclosure</th>
+	</tr>
+<tr align="left">
+		<th>cloudsek.com</th>
+		<th>-</th>
+		<th>-</th>
+		<th>https://cloudsek.com/security</th>
+	</tr>
 <tr align="left">
 		<th>touchpromotions.nl</th>
 		<th>Bounty</th>
