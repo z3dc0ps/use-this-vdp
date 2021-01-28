@@ -72,6 +72,12 @@ Here some of the websites which are tested and verified by bug hunters for Bug H
 </tr>
 
 <tr align="left">
+		<th>mozilla.org</th>
+		<th>HOF</th>
+		<th>-</th>
+		<th>https://www.mozilla.org/en-US/security/bug-bounty/</th>
+	</tr>
+<tr align="left">
 		<th>sidefx.com</th>
 		<th>Bounty,HOF</th>
 		<th>0$</th>
