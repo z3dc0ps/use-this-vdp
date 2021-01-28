@@ -71,11 +71,12 @@ Here some of the websites which are tested and verified by bug hunters for Bug H
 
 </tr>
 
+
 <tr align="left">
-		<th>mozilla.org</th>
+		<th>litmind.com</th>
 		<th>HOF</th>
 		<th>-</th>
-		<th>https://www.mozilla.org/en-US/security/bug-bounty/</th>
+		<th>https://litmind.com/bughunters</th>
 	</tr>
 <tr align="left">
 		<th>sidefx.com</th>
