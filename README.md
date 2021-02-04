@@ -73,6 +73,12 @@ Here some of the websites which are tested and verified by bug hunters for Bug H
 
 
 <tr align="left">
+		<th>un.org</th>
+		<th>HOF</th>
+		<th>-</th>
+		<th>https://unite.un.org/content/hall-fame</th>
+	</tr>
+<tr align="left">
 		<th>litmind.com</th>
 		<th>HOF</th>
 		<th>-</th>
