@@ -73,6 +73,12 @@ Here some of the websites which are tested and verified by bug hunters for Bug H
 
 
 <tr align="left">
+		<th>apple.com</th>
+		<th>Bounty</th>
+		<th>5000$</th>
+		<th>https://developer.apple.com/security-bounty/</th>
+	</tr>
+<tr align="left">
 		<th>un.org</th>
 		<th>HOF</th>
 		<th>-</th>
