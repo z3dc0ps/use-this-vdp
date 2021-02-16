@@ -73,6 +73,12 @@ Here some of the websites which are tested and verified by bug hunters for Bug H
 
 
 <tr align="left">
+		<th>telekom.com</th>
+		<th>HOF</th>
+		<th>-</th>
+		<th>https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/details/acknowledgements-358300</th>
+	</tr>
+<tr align="left">
 		<th>apple.com</th>
 		<th>Bounty</th>
 		<th>5000$</th>
