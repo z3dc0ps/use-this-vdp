@@ -73,6 +73,12 @@ Here some of the websites which are tested and verified by bug hunters for Bug H
 
 
 <tr align="left">
+		<th>federacy.com</th>
+		<th>Bounty</th>
+		<th>$100</th>
+		<th>https://www.federacy.com/federacy?tab=Awards</th>
+	</tr>
+<tr align="left">
 		<th>telekom.com</th>
 		<th>HOF</th>
 		<th>-</th>
