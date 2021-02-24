@@ -73,6 +73,12 @@ Here some of the websites which are tested and verified by bug hunters for Bug H
 
 
 <tr align="left">
+		<th>facebook.com</th>
+		<th>Bounty,HOF</th>
+		<th>500$</th>
+		<th>https://www.facebook.com/whitehat</th>
+	</tr>
+<tr align="left">
 		<th>issuu.com</th>
 		<th>HOF</th>
 		<th>-</th>
@@ -81,7 +87,7 @@ Here some of the websites which are tested and verified by bug hunters for Bug H
 <tr align="left">
 		<th>federacy.com</th>
 		<th>Bounty</th>
-		<th>$100</th>
+		<th>100$</th>
 		<th>https://www.federacy.com/federacy?tab=Awards</th>
 	</tr>
 <tr align="left">
@@ -303,7 +309,7 @@ Here some of the websites which are tested and verified by bug hunters for Bug H
 	<tr align="left">
 		<th>alwaysdata.com</th>
 		<th>Bounty,swag</th>
-		<th>€50</th>
+		<th>50€</th>
 		<th>https://www.alwaysdata.com/en/bug-bounty/</th>
 	</tr>
 	<tr align="left">
