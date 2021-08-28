@@ -56,9 +56,6 @@ Here some of the websites which are tested and verified by bug hunters for Bug H
 </tr>
 </table>
 
-## Check VDP Issue  
-**https://github.com/z3dc0ps/avoid_this_vdp**
-
 # VDP
 
 <table border="0" style="border-collapse: collapse;" >
