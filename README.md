@@ -414,6 +414,12 @@ Here some of the websites which are tested and verified by bug hunters for Bug H
 		<th>-</th>
 		<th>https://www.basf.com/global/en/legal/responsible-disclosure-statement.html</th>
 	</tr>
+	<tr align="left">
+		<th>greenhost.net</th>
+		<th>Bounty</th>
+		<th>-</th>
+		<th>https://greenhost.net/contact/responsible-disclosure/</th>
+	</tr>
 	
 
 	
