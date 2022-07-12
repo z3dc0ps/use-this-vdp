@@ -2,6 +2,9 @@
   <img width="600px" height="350px" src="https://github.com/z3dc0ps/use-this-vdp/blob/main/use_this_vdp.jpeg">
 </p>
 
+# Note:
+send a sample email to the security team whether the responsible disclosure program is still runnnig or not.
+If no reply, try to find another program.
 
 # Disclaimer :warning:
 **The authors of this document take no responsibility for correctness. The Details are changed by the Bug Hunters. .**<br>
