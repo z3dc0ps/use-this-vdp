@@ -427,4 +427,3 @@ Here some of the websites which are tested and verified by bug hunters for Bug H
 </table>
 
 
-<a  href="https://www.buymeacoffee.com/jimmisimon" target="_blank"><img height="50px" width="200px;" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" ></a>
